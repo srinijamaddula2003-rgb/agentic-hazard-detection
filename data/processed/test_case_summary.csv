@@ -1,0 +1,35 @@
+tc_id,hi_id,name,severity,test_type,expected_state,num_steps
+TC-HI-001-01,HI-001,NAS Integrity Check Fail,high,negative,EMM-REGISTERED,3
+TC-HI-001-02,HI-001,NAS Integrity Check Fail Edge Case,medium,boundary,EMM-REGISTERED,4
+TC-HI-002-03,HI-002,AUTHENTICATION_FAILURE_NORMAL,high,negative,EMM-COMMON-PROCEDURE-INITIATED,3
+TC-HI-002-04,HI-002,AUTHENTICATION_FAILURE_EDGE_CASE,medium,boundary,EMM-COMMON-PROCEDURE-INITIATED,3
+TC-HI-003-05,HI-003,AUTH_REJECT_Hazard_NORMAL,high,negative,EMM-DER,6
+TC-HI-003-06,HI-003,AUTH_REJECT_Hazard_EDGE_CASE,medium,boundary,EMM-DER,7
+TC-HI-004-07,HI-004,AUTH Failure Test,high,negative,EMM-DEREGISTERED,3
+TC-HI-004-08,HI-004,Edge Case Test,medium,boundary,EMM-DEREGISTERED,5
+TC-HI-005-09,HI-005,ATTACH_REJECT_Hazard_NORMAL,high,negative,EMM-DEREGISTERED,3
+TC-HI-005-10,HI-005,ATTACH_REJECT_Hazard_EDGE_CASE,medium,boundary,Unexpected state,3
+TC-HI-006-11,HI-006,detach_request_hazard,high,negative,EMM-DEREGISTERED-INITIATED,5
+TC-HI-006-12,HI-006,detach_request_hazard_edge_case,medium,boundary,EMM-DEREGISTERED-INITIATED,4
+TC-HI-007-13,HI-007,detach_request_hazard_normal,high,negative,EMM-DEREGISTERED,4
+TC-HI-007-14,HI-007,detach_request_hazard_edge_case,medium,boundary,EMM-REGISTERED,4
+TC-HI-008-15,HI-008,detach_request_hazard_normal,high,negative,EMM-DEREGISTERED-INITIATED,4
+TC-HI-008-16,HI-008,detach_request_hazard_edge_case,medium,boundary,EMM-DEREGISTERED-INITIATED,5
+TC-HI-009-17,HI-009,detach_request_hazard_normal,high,negative,EMM-DEREGISTERED,3
+TC-HI-009-18,HI-009,detach_request_hazard_edge_case,medium,boundary,EMM-DEREGISTERED or unexpected behavior,3
+TC-HI-010-19,HI-010,Normal Detach Accept Hazard Test,high,negative,EMM-DEREGISTERED,5
+TC-HI-010-20,HI-010,Edge Case Detach Accept Hazard Test,medium,negative,unexpected state,5
+TC-HI-011-21,HI-011,Normal Test,high,negative,EMM-REGISTERED,5
+TC-HI-011-22,HI-011,Edge Case Test,medium,boundary,EMM-REGISTERED,6
+TC-HI-012-23,HI-012,Track Update Reject Normal,high,negative,EMM-DEREGISTERED,4
+TC-HI-012-24,HI-012,Track Update Reject Edge Case,medium,boundary,unexpected state or timing,4
+TC-HI-013-25,HI-013,ACTIVATE DEDICATED EPS BEARER CONTEXT REJECT,high,negative,BEARER CONTEXT INACTIVE,3
+TC-HI-013-26,HI-013,UNEXPECTED BEARER CONTEXT UPDATE,medium,boundary,BEARER CONTEXT INACTIVE,3
+TC-HI-014-27,HI-014,Normal Test,high,negative,BEARER CONTEXT ACTIVE,3
+TC-HI-014-28,HI-014,Edge Case Test,medium,boundary,BEARER CONTEXT MODIFY PENDING,3
+TC-HI-015-29,HI-015,normal_test,high,negative,BEARER CONTEXT INACTIVE,3
+TC-HI-015-30,HI-015,edge_case_test,medium,boundary,BEARER CONTEXT INACTIVE,3
+TC-HI-016-31,HI-016,normal_test,high,negative,BEARER CONTEXT INACTIVE,4
+TC-HI-016-32,HI-016,edge_case_test,medium,boundary,BEARER CONTEXT INACTIVE,4
+TC-HI-017-33,HI-017,PDN Disconnect Request Hazard Test,high,negative,BEARER CONTEXT INACTIVE,3
+TC-HI-017-34,HI-017,PDN Disconnect Request Hazard Test - Edge Case,medium,boundary,BEARER CONTEXT INACTIVE,3

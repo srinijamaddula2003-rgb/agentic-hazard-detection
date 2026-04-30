@@ -1,0 +1,2 @@
+stage,description,file,tp,fn,fp,precision,recall,f1,delta_f1
+Consensus (Llama + Qwen),"Multi-model voting, no context or validator",consensus_predictions.jsonl,14,136,0,1.0,0.09333333333333334,0.17073170731707318,0

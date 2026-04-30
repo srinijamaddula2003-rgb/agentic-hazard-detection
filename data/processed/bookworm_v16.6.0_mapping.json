@@ -1,0 +1,34 @@
+{
+  "total_his": 87,
+  "matched_count": 3,
+  "match_rate": "3.4%",
+  "mappings": [
+    {
+      "hi_id": 8,
+      "hi_text": "ATTACH REQUEST message received when paging procedure is ongoing. If an integrity-protected ATTACH REQUEST message is received from the UE and successfully integrity checked by the network, the network shall abort the paging procedure",
+      "matched_paragraph_id": 206,
+      "matched_section": "5.6.2.2.1.2",
+      "matched_text": "The following abnormal case can be identified: a) ATTACH REQUEST message received when paging procedure is ongoing. If an integrity-protected ATTACH REQUEST message is received from the UE and success",
+      "match_score": 0.49558690757198337,
+      "method": "substring"
+    },
+    {
+      "hi_id": 12,
+      "hi_text": "If the network receives a TRACKING AREA UPDATE REQUEST message in response to a CS SERVICE NOTIFICATION message, the network shall progress the tracking area updating procedure",
+      "matched_paragraph_id": 497,
+      "matched_section": "8.2.29.18",
+      "matched_text": "The UE shall include this IE if the UE requests \"SMS only\" or CIoT EPS optimizations, unless the UE performs a periodic tracking area updating procedure.",
+      "match_score": 0.34602963525835867,
+      "method": "substring"
+    },
+    {
+      "hi_id": 19,
+      "hi_text": "Upon receipt of the ACTIVATE DEDICATED EPS BEARER CONTEXT REJECT message in state BEARER CONTEXT ACTIVE PENDING, the MME shall stop the timer T3485, enter the state BEARER CONTEXT INACTIVE and abort the dedicated EPS bearer context activation procedure",
+      "matched_paragraph_id": 319,
+      "matched_section": "6.6.3.4",
+      "matched_text": "Upon receipt of the REMOTE UE REPORT RESPONSE message, the UE shall stop timer T3493 and enter the state PROCEDURE TRANSACTION INACTIVE.",
+      "match_score": 0.30256913762068405,
+      "method": "substring"
+    }
+  ]
+}

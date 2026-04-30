@@ -1,0 +1,67 @@
+{"id": 15, "is_valid": "no", "reason": "The text describes standard procedural termination conditions for NAS security c"}
+{"id": 35, "is_valid": "no", "reason": "The text describes a standard, successful security procedure (re-authentication "}
+{"id": 88, "is_valid": "no", "reason": "The text describes a standard protocol behavior where the network sends an AUTHE"}
+{"id": 90, "is_valid": "no", "reason": "The text describes a state preservation requirement ('shall... handle... as spec"}
+{"id": 95, "is_valid": "no", "reason": "The text describes a standard protocol behavior where the UE sends an AUTHENTICA"}
+{"id": 96, "is_valid": "no", "reason": "The text describes a standard compliance behavior where the UE rejects an invali"}
+{"id": 101, "is_valid": "no", "reason": "The text describes a standard error handling procedure (sending AUTHENTICATION F"}
+{"id": 106, "is_valid": "no", "reason": "The text describes a conditional branch ('proceed as described in item f') trigg"}
+{"id": 107, "is_valid": "no", "reason": "The text describes a standard LTE authentication failure event (MAC failure) and"}
+{"id": 114, "is_valid": "no", "reason": "The text describes a standard security procedure where the UE aborts the authent"}
+{"id": 119, "is_valid": "no", "reason": "The text describes a permitted exception for emergency bearer services where the"}
+{"id": 126, "is_valid": "no", "reason": "The text describes a standard, successful procedure for establishing a mapped se"}
+{"id": 133, "is_valid": "no", "reason": "The text describes a standard, successful procedure where the UE accepts a Secur"}
+{"id": 134, "is_valid": "no", "reason": "The text describes a standard, successful NAS security mode completion procedure"}
+{"id": 138, "is_valid": "no", "reason": "The text describes a standard error handling procedure where the UE sends a reje"}
+{"id": 167, "is_valid": "no", "reason": "The text describes a standard protocol compliance behavior where the MME rejects"}
+{"id": 172, "is_valid": "no", "reason": "The text describes standard state machine logic for resetting an attempt counter"}
+{"id": 186, "is_valid": "no", "reason": "The text describes a standard, successful procedure (attach accepted) where dele"}
+{"id": 192, "is_valid": "no", "reason": "The text describes a standard, successful procedure for updating a temporary ide"}
+{"id": 194, "is_valid": "no", "reason": "The text describes standard state synchronization logic where the UE filters out"}
+{"id": 203, "is_valid": "no", "reason": "The text is a general procedural definition describing standard UE behavior upon"}
+{"id": 206, "is_valid": "no", "reason": "The text describes a standard state transition (EMM-DEREGISTERED.NO-IMSI) result"}
+{"id": 212, "is_valid": "no", "reason": "The text describes a standard, normative procedure for handling network rejectio"}
+{"id": 213, "is_valid": "no", "reason": "The text describes a standard state transition and list update procedure (adding"}
+{"id": 215, "is_valid": "no", "reason": "The text describes a standard state transition and list update procedure (enteri"}
+{"id": 217, "is_valid": "no", "reason": "The text describes a standard, normative recovery procedure defined in 3GPP spec"}
+{"id": 220, "is_valid": "no", "reason": "The text describes a standard, normative state transition (EMM-DEREGISTERED) and"}
+{"id": 223, "is_valid": "no", "reason": "The text describes a standard state synchronization procedure where the UE updat"}
+{"id": 232, "is_valid": "no", "reason": "The text describes a standard state transition and timer start (T3411) during a "}
+{"id": 264, "is_valid": "no", "reason": "The text describes a standard state restriction following a successful procedure"}
+{"id": 271, "is_valid": "no", "reason": "The text describes a standard state transition and radio access technology selec"}
+{"id": 272, "is_valid": "no", "reason": "The text describes a standard compliance procedure where the UE updates an inter"}
+{"id": 274, "is_valid": "no", "reason": "The text describes a standard state management procedure where the UE updates an"}
+{"id": 275, "is_valid": "no", "reason": "The text describes standard parameter handling and state management procedures f"}
+{"id": 276, "is_valid": "no", "reason": "The text describes a standard state management procedure where the UE updates an"}
+{"id": 288, "is_valid": "no", "reason": "The text describes a standard, normative detach procedure triggered by expected "}
+{"id": 293, "is_valid": "no", "reason": "The text is a general procedural description defining the initiation of a normal"}
+{"id": 296, "is_valid": "no", "reason": "The text describes standard state transitions and timer management during a norm"}
+{"id": 300, "is_valid": "no", "reason": "The text describes a standard, successful completion of a UE-initiated detach pr"}
+{"id": 302, "is_valid": "no", "reason": "The text describes a standard, successful completion of a UE-initiated detach pr"}
+{"id": 304, "is_valid": "no", "reason": "The text describes the standard, successful completion of a UE-initiated detach "}
+{"id": 322, "is_valid": "no", "reason": "The text describes a standard state transition and access technology reselection"}
+{"id": 323, "is_valid": "no", "reason": "The text describes standard state management and parameter handling procedures d"}
+{"id": 327, "is_valid": "no", "reason": "The text describes a standard, successful completion of a network-initiated deta"}
+{"id": 387, "is_valid": "no", "reason": "The text describes a standard, successful procedure where the UE updates its int"}
+{"id": 390, "is_valid": "no", "reason": "The text describes a standard error handling procedure where the UE stops data t"}
+{"id": 396, "is_valid": "no", "reason": "The text describes a standard fallback mechanism (paging with IMSI) and a normat"}
+{"id": 418, "is_valid": "no", "reason": "The text describes a standard state restriction following a successful procedure"}
+{"id": 420, "is_valid": "no", "reason": "The text describes a standard fallback procedure where the UE switches to GERAN/"}
+{"id": 423, "is_valid": "no", "reason": "The text describes a standard compliance behavior where the UE updates an intern"}
+{"id": 454, "is_valid": "no", "reason": "The text describes a standard internal state notification (ESM notifying EMM) up"}
+{"id": 478, "is_valid": "no", "reason": "The text describes a standard protocol compliance behavior where the UE correctl"}
+{"id": 480, "is_valid": "no", "reason": "The text describes a standard normative behavior where the UE rejects an invalid"}
+{"id": 509, "is_valid": "no", "reason": "The text describes a normal successful procedure where the UE processes a new ac"}
+{"id": 510, "is_valid": "no", "reason": "The text describes standard conditional logic for successful TFT modification pr"}
+{"id": 520, "is_valid": "no", "reason": "The text describes a normal successful procedure where the UE processes a deleti"}
+{"id": 521, "is_valid": "no", "reason": "The text is a normative specification defining standard protocol behavior (rejec"}
+{"id": 525, "is_valid": "no", "reason": "The text describes a standard protocol compliance behavior where the UE rejects "}
+{"id": 526, "is_valid": "no", "reason": "The text describes a standard protocol compliance behavior where the UE rejects "}
+{"id": 530, "is_valid": "no", "reason": "The text describes standard protocol behavior for handling procedure collisions "}
+{"id": 585, "is_valid": "no", "reason": "The text describes a standard protocol behavior where the MME rejects a request "}
+{"id": 615, "is_valid": "no", "reason": "The text describes a standard normative behavior where the network rejects an in"}
+{"id": 636, "is_valid": "no", "reason": "The text describes a standard, intentional procedure for a UE to request the rel"}
+{"id": 641, "is_valid": "no", "reason": "The text describes a standard, successful network procedure ('procedure accepted"}
+{"id": 648, "is_valid": "no", "reason": "The text describes a standard, successful procedural flow ('shall perform') for "}
+{"id": 656, "is_valid": "no", "reason": "The text describes a standard normative behavior where the network rejects a mal"}
+{"id": 657, "is_valid": "no", "reason": "The text describes a standard normative behavior where the network rejects a mal"}

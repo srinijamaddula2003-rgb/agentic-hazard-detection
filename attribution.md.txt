@@ -1,0 +1,45 @@
+# Code and Data Attribution
+
+## Models Used
+
+### Llama 3B
+- **Source**: Meta Platforms  
+- **URL**: https://huggingface.co/meta-llama/Llama-2-3b-hf
+- **License**: Meta Llama 2 Community License
+- **Usage**: Multi-model consensus voting
+
+### Qwen 397B
+- **Source**: Alibaba Cloud( i have used a remote workstation for my work)
+- **URL**: https://huggingface.co/Qwen/Qwen2-72B
+- **License**: Qwen License
+- **Usage**: Primary classification model
+
+## Data
+
+### 3GPP TS 24.301 Specification
+- **Source**: 3GPP (https://www.3gpp.org/)
+- **Standard**: LTE Non-Access Stratum Protocol Specification
+- **Usage**: Evaluation dataset
+
+### Bookworm Baseline
+- **Paper**: Y. Chen et al., "Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis," 2021 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2021, pp. 1197-1214, doi: 10.1109/SP40001.2021.00104. keywords: {Cellular networks;Protocols;Systematics;Prototypes;Documentation;Manuals;Hazards;Cellular Network;4G;LTE;Vulnerability;Attack;Documentation Analysis;NLP},
+- **Usage**: Performance comparison baseline
+
+## External Libraries
+
+All dependencies are listed in `requirements.txt` with appropriate versions.
+
+Key open-source libraries:
+- **PyTorch** (Meta AI, BSD License)
+- **Hugging Face Transformers** (Hugging Face, Apache 2.0)
+- **scikit-learn** (Scikit-learn developers, BSD License)
+
+## Original Contributions
+
+All other code, pipeline design, prompt engineering, and experimental methodology are original work by Srinija Reddy Maddula.
+
+- Agentic pipeline architecture (5-stage design)
+- Prompt engineering and optimization
+- Ablation study design and execution
+- Novel threat discovery methodology
+- Evaluation framework and metrics
