@@ -36,7 +36,7 @@ Key open-source libraries:
 
 ## Original Contributions
 
-All other code, pipeline design, prompt engineering, and experimental methodology are original work by Srinija Reddy Maddula.
+Some code modifications were done using the help of claude but apart from that remaining code, pipeline design, prompt engineering, and experimental methodology are original work by Srinija Reddy Maddula.
 
 - Agentic pipeline architecture (5-stage design)
 - Prompt engineering and optimization
